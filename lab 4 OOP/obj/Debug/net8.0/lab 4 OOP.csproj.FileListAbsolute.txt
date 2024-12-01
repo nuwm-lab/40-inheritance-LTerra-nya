@@ -1,0 +1,14 @@
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\bin\Debug\net8.0\lab 4 OOP.exe
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\bin\Debug\net8.0\lab 4 OOP.deps.json
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\bin\Debug\net8.0\lab 4 OOP.runtimeconfig.json
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\bin\Debug\net8.0\lab 4 OOP.dll
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\bin\Debug\net8.0\lab 4 OOP.pdb
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.AssemblyInfoInputs.cache
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.AssemblyInfo.cs
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.dll
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\refint\lab 4 OOP.dll
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.pdb
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\lab 4 OOP.genruntimeconfig.cache
+C:\Users\dmytr\унів\ООП\Lab4\lab 4 OOP\lab 4 OOP\obj\Debug\net8.0\ref\lab 4 OOP.dll
